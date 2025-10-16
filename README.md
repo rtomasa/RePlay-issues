@@ -1,3 +1,6 @@
+[![Discord](https://img.shields.io/discord/1340774554997489668?label=Discord&logo=discord&logoColor=white&color=5865F2&style=for-the-badge)](https://discord.gg/2ghkKAWKDv)
+[![Patrons](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DRePlayOS%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/RePlayOS)
+
 # RePlay OS Issue Tracker
 
 Use this repository to report issues, bugs, and suggest features for **RePlay OS**.
